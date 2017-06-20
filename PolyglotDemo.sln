@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyglotDemo", "PolyglotDemo\PolyglotDemo.csproj", "{E95F14DB-366E-4FC6-A5B4-B7B0A671F227}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Infrastructure", "Demo.Infrastructure\Demo.Infrastructure.csproj", "{11AA5100-A9FC-4AFB-83A7-B98A62709222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Application", "Demo.Application\Demo.Application.csproj", "{D559CFB5-FECC-4D1C-A74E-93E0DC14C5AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Domain", "Demo.Domain\Demo.Domain.csproj", "{258071A8-4082-4E27-8C3B-AD29906F5929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E95F14DB-366E-4FC6-A5B4-B7B0A671F227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95F14DB-366E-4FC6-A5B4-B7B0A671F227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95F14DB-366E-4FC6-A5B4-B7B0A671F227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95F14DB-366E-4FC6-A5B4-B7B0A671F227}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AA5100-A9FC-4AFB-83A7-B98A62709222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AA5100-A9FC-4AFB-83A7-B98A62709222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AA5100-A9FC-4AFB-83A7-B98A62709222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AA5100-A9FC-4AFB-83A7-B98A62709222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D559CFB5-FECC-4D1C-A74E-93E0DC14C5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D559CFB5-FECC-4D1C-A74E-93E0DC14C5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D559CFB5-FECC-4D1C-A74E-93E0DC14C5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D559CFB5-FECC-4D1C-A74E-93E0DC14C5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258071A8-4082-4E27-8C3B-AD29906F5929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258071A8-4082-4E27-8C3B-AD29906F5929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258071A8-4082-4E27-8C3B-AD29906F5929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258071A8-4082-4E27-8C3B-AD29906F5929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8;packages\EnterpriseLibrary.TransientFaultHandling.Data.6.0.1304.1\lib\NET45
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\bin\Debug\Demo.Application.dll
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\bin\Debug\Demo.Application.pdb
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\bin\Debug\Demo.Domain.dll
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\bin\Debug\StackExchange.Redis.dll
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\bin\Debug\Demo.Domain.pdb
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\bin\Debug\StackExchange.Redis.xml
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\obj\Debug\Demo.Application.csprojResolveAssemblyReference.cache
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\obj\Debug\Demo.Application.dll
+C:\Users\ivhadmin\Documents\Visual Studio 2015\Projects\PolyglotDemo\Demo.Application\obj\Debug\Demo.Application.pdb

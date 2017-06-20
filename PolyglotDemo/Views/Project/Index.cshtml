@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Demo.Domain.Model.PROJECT>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>DERISK Project's list</h2>
+<h3>@Html.ActionLink("Create", "Create", new { }) </h3>
+<h3>@Html.ActionLink("Refresh", "Index", new {updateCache = true }) </h3>
+
+@if (Model != null)
+{
+    <table class="table table-striped">
+        <thead class="thead-inverse">
+            <tr>
+                <td><B>UPC</B></td>
+                <td><B>CLIENT_NAME</B></td>
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var project in Model)
+                {
+                <tr>
+                    <td>@project.UPC</td>
+                    <td>@project.CLIENT_NAME</td>
+                    <td></td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+}
+
