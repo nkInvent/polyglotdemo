@@ -1,2 +1,2 @@
 # polyglotdemo
-Describe Asp.Net Ployglot persistance, wih Redis Cache
+Asp.Net Polyglot persistance, with Redis Cache
